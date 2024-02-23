@@ -1,0 +1,21 @@
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\bin\Release\net8.0-windows\DAQ Simulation Application.exe
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\bin\Release\net8.0-windows\DAQ Simulation Application.deps.json
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\bin\Release\net8.0-windows\DAQ Simulation Application.runtimeconfig.json
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\bin\Release\net8.0-windows\DAQ Simulation Application.dll
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\bin\Release\net8.0-windows\DAQ Simulation Application.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ_Simulation_Application.main_window.resources
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.csproj.GenerateResource.cache
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.AssemblyInfoInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.AssemblyInfo.cs
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.csproj.CoreCompileInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.sourcelink.json
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.dll
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\refint\DAQ Simulation Application.dll
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.genruntimeconfig.cache
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\ref\DAQ Simulation Application.dll
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\bin\Release\net8.0-windows\CsvHelper.dll
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\bin\Release\net8.0-windows\System.Linq.Async.dll
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.csproj.AssemblyReference.cache
+C:\Users\Torstein\Documents\skole\USN\IIA1319\Assignment 1\DAQ Simulation Application\obj\Release\net8.0-windows\DAQ Simulation Application.csproj.CopyComplete

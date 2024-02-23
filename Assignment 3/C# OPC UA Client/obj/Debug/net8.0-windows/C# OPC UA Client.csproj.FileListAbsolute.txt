@@ -1,0 +1,31 @@
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\C# OPC UA Client.exe
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\C# OPC UA Client.deps.json
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\C# OPC UA Client.runtimeconfig.json
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\C# OPC UA Client.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\C# OPC UA Client.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\Opc.UaFx.Client.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.csproj.AssemblyReference.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client_MarkupCompile.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client_MarkupCompile.lref
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.g.resources
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.AssemblyInfoInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.AssemblyInfo.cs
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.csproj.CoreCompileInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.csproj.CopyComplete
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\refint\C# OPC UA Client.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\C# OPC UA Client.genruntimeconfig.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\obj\Debug\net8.0-windows\ref\C# OPC UA Client.dll

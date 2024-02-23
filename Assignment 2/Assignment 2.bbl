@@ -1,0 +1,165 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Kingston}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fc671c70b4fa8f5a21e967585a26ab78}{%
+           family={Hinum},
+           familyi={H\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc671c70b4fa8f5a21e967585a26ab78}
+      \strng{fullhash}{fc671c70b4fa8f5a21e967585a26ab78}
+      \strng{bibnamehash}{fc671c70b4fa8f5a21e967585a26ab78}
+      \strng{authorbibnamehash}{fc671c70b4fa8f5a21e967585a26ab78}
+      \strng{authornamehash}{fc671c70b4fa8f5a21e967585a26ab78}
+      \strng{authorfullhash}{fc671c70b4fa8f5a21e967585a26ab78}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 02.02.2024)}
+      \field{title}{Kingston SA2000M8500G}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.notebookcheck.net/Kingston-SA2000M8500G-SSD-Benchmarks.588591.0.html
+      \endverb
+      \verb{url}
+      \verb https://www.notebookcheck.net/Kingston-SA2000M8500G-SSD-Benchmarks.588591.0.html
+      \endverb
+    \endentry
+    \entry{Intel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=91b95fe5ae81b5146dc0e10e65f34011}{%
+           family={Electronics},
+           familyi={E\bibinitperiod},
+           given={Mouser},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{91b95fe5ae81b5146dc0e10e65f34011}
+      \strng{fullhash}{91b95fe5ae81b5146dc0e10e65f34011}
+      \strng{bibnamehash}{91b95fe5ae81b5146dc0e10e65f34011}
+      \strng{authorbibnamehash}{91b95fe5ae81b5146dc0e10e65f34011}
+      \strng{authornamehash}{91b95fe5ae81b5146dc0e10e65f34011}
+      \strng{authorfullhash}{91b95fe5ae81b5146dc0e10e65f34011}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 02.02.2024)}
+      \field{title}{Intel SSDPEKNW010T8}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://no.mouser.com/ProductDetail/Intel/SSDPEKNW010T8?qs=Cb2nCFKsA8rCEtiIiJugDg%3D%3D
+      \endverb
+      \verb{url}
+      \verb https://no.mouser.com/ProductDetail/Intel/SSDPEKNW010T8?qs=Cb2nCFKsA8rCEtiIiJugDg%3D%3D
+      \endverb
+    \endentry
+    \entry{IPClasses}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ea77c1e1138add8c2ae693bd524741c0}{%
+           family={Outposts},
+           familyi={O\bibinitperiod},
+           given={Meridian},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea77c1e1138add8c2ae693bd524741c0}
+      \strng{fullhash}{ea77c1e1138add8c2ae693bd524741c0}
+      \strng{bibnamehash}{ea77c1e1138add8c2ae693bd524741c0}
+      \strng{authorbibnamehash}{ea77c1e1138add8c2ae693bd524741c0}
+      \strng{authornamehash}{ea77c1e1138add8c2ae693bd524741c0}
+      \strng{authorfullhash}{ea77c1e1138add8c2ae693bd524741c0}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 04.02.2024)}
+      \field{title}{The Five IPv4 Classes - Quick Reference}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.meridianoutpost.com/resources/articles/IP-classes.php
+      \endverb
+      \verb{url}
+      \verb https://www.meridianoutpost.com/resources/articles/IP-classes.php
+      \endverb
+    \endentry
+    \entry{Assignment}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e6c495d53ccf9607366a7daa891341c6}{%
+           family={Skeie},
+           familyi={S\bibinitperiod},
+           given={Nils-Olav},
+           giveni={N\bibinithyphendelim O\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6c495d53ccf9607366a7daa891341c6}
+      \strng{fullhash}{e6c495d53ccf9607366a7daa891341c6}
+      \strng{bibnamehash}{e6c495d53ccf9607366a7daa891341c6}
+      \strng{authorbibnamehash}{e6c495d53ccf9607366a7daa891341c6}
+      \strng{authornamehash}{e6c495d53ccf9607366a7daa891341c6}
+      \strng{authorfullhash}{e6c495d53ccf9607366a7daa891341c6}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 01.02.2024)}
+      \field{title}{Data Communication and Digitalization Assignment}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://inst-fs-dub-prod.inscloudgate.net
+      \endverb
+      \verb{url}
+      \verb https://inst-fs-dub-prod.inscloudgate.net
+      \endverb
+    \endentry
+    \entry{DAQ}{online}{}
+      \name{author}{1}{}{%
+        {{hash=514bb70bfaf44e50da573afee2ee0fa7}{%
+           family={Ølberg},
+           familyi={Ø\bibinitperiod},
+           given={Torstein\bibnamedelima SOlheim},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{514bb70bfaf44e50da573afee2ee0fa7}
+      \strng{fullhash}{514bb70bfaf44e50da573afee2ee0fa7}
+      \strng{bibnamehash}{514bb70bfaf44e50da573afee2ee0fa7}
+      \strng{authorbibnamehash}{514bb70bfaf44e50da573afee2ee0fa7}
+      \strng{authornamehash}{514bb70bfaf44e50da573afee2ee0fa7}
+      \strng{authorfullhash}{514bb70bfaf44e50da573afee2ee0fa7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 04.02.2024)}
+      \field{title}{IIA1319/Assignment 1}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/MrTorstein/IIA1319/tree/main/Assignment%201
+      \endverb
+      \verb{url}
+      \verb https://github.com/MrTorstein/IIA1319/tree/main/Assignment%201
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

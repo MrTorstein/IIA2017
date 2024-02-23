@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAQ Simulation Application", "DAQ Simulation Application.csproj", "{B8BC99A3-3E8D-4A00-9BAC-A9A1D381A437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8BC99A3-3E8D-4A00-9BAC-A9A1D381A437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BC99A3-3E8D-4A00-9BAC-A9A1D381A437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BC99A3-3E8D-4A00-9BAC-A9A1D381A437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BC99A3-3E8D-4A00-9BAC-A9A1D381A437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F2C1B1B-1E71-429C-9E92-483315A49846}
+	EndGlobalSection
+EndGlobal

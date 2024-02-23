@@ -1,0 +1,14 @@
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\bin\Debug\net8.0\PingApp.exe
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\bin\Debug\net8.0\PingApp.deps.json
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\bin\Debug\net8.0\PingApp.runtimeconfig.json
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\bin\Debug\net8.0\PingApp.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\bin\Debug\net8.0\PingApp.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\PingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\PingApp.AssemblyInfoInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\PingApp.AssemblyInfo.cs
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\PingApp.csproj.CoreCompileInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\PingApp.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\refint\PingApp.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\PingApp.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\PingApp.genruntimeconfig.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 2\PingApp\obj\Debug\net8.0\ref\PingApp.dll
