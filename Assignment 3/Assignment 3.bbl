@@ -16,5 +16,172 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{task}{online}{}
+      \name{author}{1}{}{%
+        {{hash=894cc5a3b0b46b44fc847ce40680a7ef}{%
+           family={Halvorsen},
+           familyi={H\bibinitperiod},
+           given={Hans\bibnamedelima Petter},
+           giveni={H\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{894cc5a3b0b46b44fc847ce40680a7ef}
+      \strng{fullhash}{894cc5a3b0b46b44fc847ce40680a7ef}
+      \strng{bibnamehash}{894cc5a3b0b46b44fc847ce40680a7ef}
+      \strng{authorbibnamehash}{894cc5a3b0b46b44fc847ce40680a7ef}
+      \strng{authornamehash}{894cc5a3b0b46b44fc847ce40680a7ef}
+      \strng{authorfullhash}{894cc5a3b0b46b44fc847ce40680a7ef}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 22.02.2024)}
+      \field{title}{DAQ and OPC System}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.halvorsen.blog/documents/teaching/courses/industrialit/lab_assignment/OPC%20Lab.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.halvorsen.blog/documents/teaching/courses/industrialit/lab_assignment/OPC%20Lab.pdf
+      \endverb
+    \endentry
+    \entry{labview}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fff6fa4fe7ddec3a931ca45d9e626ae7}{%
+           family={NI},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{fff6fa4fe7ddec3a931ca45d9e626ae7}
+      \strng{fullhash}{fff6fa4fe7ddec3a931ca45d9e626ae7}
+      \strng{bibnamehash}{fff6fa4fe7ddec3a931ca45d9e626ae7}
+      \strng{authorbibnamehash}{fff6fa4fe7ddec3a931ca45d9e626ae7}
+      \strng{authornamehash}{fff6fa4fe7ddec3a931ca45d9e626ae7}
+      \strng{authorfullhash}{fff6fa4fe7ddec3a931ca45d9e626ae7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24.02.2024)}
+      \field{title}{LabVIEW}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.ni.com/en/support/downloads/software-products/download.labview.html#521715
+      \endverb
+      \verb{url}
+      \verb https://www.ni.com/en/support/downloads/software-products/download.labview.html#521715
+      \endverb
+    \endentry
+    \entry{VS}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24.02.2024)}
+      \field{title}{Visual Studio}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://visualstudio.microsoft.com
+      \endverb
+      \verb{url}
+      \verb https://visualstudio.microsoft.com
+      \endverb
+    \endentry
+    \entry{Matrikon}{online}{}
+      \name{author}{1}{}{%
+        {{hash=88dd6e81b610005105ea4ee4bfbb9ce5}{%
+           family={Matrikon},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{88dd6e81b610005105ea4ee4bfbb9ce5}
+      \strng{fullhash}{88dd6e81b610005105ea4ee4bfbb9ce5}
+      \strng{bibnamehash}{88dd6e81b610005105ea4ee4bfbb9ce5}
+      \strng{authorbibnamehash}{88dd6e81b610005105ea4ee4bfbb9ce5}
+      \strng{authornamehash}{88dd6e81b610005105ea4ee4bfbb9ce5}
+      \strng{authorfullhash}{88dd6e81b610005105ea4ee4bfbb9ce5}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24.02.2024)}
+      \field{title}{MatrikonOPC Simulation Server}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://www.matrikonopc.com/products/opc-drivers/opc-simulation-server.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.matrikonopc.com/products/opc-drivers/opc-simulation-server.aspx
+      \endverb
+    \endentry
+    \entry{IO}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a74c715098abab932cc82313689ebb4f}{%
+           family={Objects},
+           familyi={O\bibinitperiod},
+           given={Integration},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{a74c715098abab932cc82313689ebb4f}
+      \strng{fullhash}{a74c715098abab932cc82313689ebb4f}
+      \strng{bibnamehash}{a74c715098abab932cc82313689ebb4f}
+      \strng{authorbibnamehash}{a74c715098abab932cc82313689ebb4f}
+      \strng{authornamehash}{a74c715098abab932cc82313689ebb4f}
+      \strng{authorfullhash}{a74c715098abab932cc82313689ebb4f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24.02.2024)}
+      \field{title}{OPC UA Server Simulator}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://integrationobjects.com/sioth-opc/sioth-opc-unified-architecture/opc-ua-server-simulator/
+      \endverb
+      \verb{url}
+      \verb https://integrationobjects.com/sioth-opc/sioth-opc-unified-architecture/opc-ua-server-simulator/
+      \endverb
+    \endentry
+    \entry{github}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b23e733028587db1f881d7f7dcd453ae}{%
+           family={Olberg},
+           familyi={O\bibinitperiod},
+           given={Torstein\bibnamedelima Solheim},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{fullhash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{bibnamehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{authorbibnamehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{authornamehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{authorfullhash}{b23e733028587db1f881d7f7dcd453ae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24.02.2024)}
+      \field{title}{Assignment 3}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/MrTorstein/IIA2017/tree/main/Assignment%203
+      \endverb
+      \verb{url}
+      \verb https://github.com/MrTorstein/IIA2017/tree/main/Assignment%203
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

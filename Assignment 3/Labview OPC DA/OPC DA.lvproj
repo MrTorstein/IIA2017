@@ -13,7 +13,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Choose_tags.vi" Type="VI" URL="../Choose_tags.vi"/>
 		<Item Name="Read_from_server.vi" Type="VI" URL="../Read_from_server.vi"/>
-		<Item Name="Server.vi" Type="VI" URL="../Server.vi"/>
 		<Item Name="Write_to_file.vi" Type="VI" URL="../Write_to_file.vi"/>
 		<Item Name="Write_to_server.vi" Type="VI" URL="../Write_to_server.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
