@@ -1,0 +1,153 @@
+%% sample template file for a MSc Thesis
+%% The default is with two sided setup:
+\documentclass{USN-rapport}
+
+% The following command removes the chapter names form the header
+% (comment/remove) if you prefer to have them:
+\pagestyle{plain}
+
+% --- Bibliography setup ---
+%%% default is the "ieee" style
+\usepackage[style=ieee, sorting=none]{biblatex}
+%%% If you want to use "author-year" style
+%%% where `\cite{Foo2011}` generates "Foo et al. (2011)"
+%%% and   `\parencite{Foo2011}` generates "(Foo et al. 2011)"
+%%% then comment the line above and use
+%\usepackage[style=authoryear]{biblatex}
+%%% or
+%%% if you want to use "alphabetic" style then use
+%%% where `cite[Foo2011]` generates "[Foo11]"
+%%% then comment the line above and use
+%\usepackage[style=alphabetic]{biblatex}
+%%% instead.
+%% load the bib file:
+\addbibresource{thesis.bib}
+
+\usepackage{lipsum} % just for providing fill text used in this template
+
+% --- general setup ---
+%% Please fill in the following parameters:
+\newcommand{\mysubject}{
+	IIA2017
+}
+
+\newcommand{\mytitle}{%
+%% title:
+Title of rapport
+}
+
+\newcommand{\myauthor}{%
+%% author(thesis) or group code (project):
+Torstein Solheim Ølberg, 263054
+}
+
+\newcommand{\mysubtitle}{%
+	%% master programme (for thesis only)
+	%% uncomment the appropriate one:
+	%Electrical Power Engineering
+	%Energy and Environmental Technology
+	%Industrial IT and Automation
+	%Process Technology
+}
+
+\newcommand{\mykeywords}{%
+	%% keywords (for thesis only):
+	%s<keyword one, keyword two, \ldots>
+}
+
+\newcommand{\myparticipants}{
+	%% group participants (for project only)
+	<First participant>\\
+	<Second participant>\\
+	<Third participant>\\
+	<Fourth participant>
+}
+
+\newcommand{\supervisor}{%
+	%% supervisor:
+	<Supervisor's Name>}
+
+\begin{document}
+	
+	% --- title page setup ---
+	\USNtitlepage
+	
+
+\begin{document}
+
+% --- title page setup ---
+\USNtitlepage
+
+
+\chapter*{Preface}
+\label{ch:preface}
+\addcontentsline{toc}{chapter}{Preface}
+\lipsum[1-3]
+\bigskip
+Porsgrunn, \today
+
+\myauthor %% for thesis
+%\myparticipants %% for project
+
+
+%% table of contents
+\tableofcontents
+\addcontentsline{toc}{chapter}{\contentsname}
+
+\listoffigures % out-comment if unwanted
+\addcontentsline{toc}{section}{\listfigurename}
+
+\listoftables  % out-comment if unwanted
+\addcontentsline{toc}{section}{\listtablename}
+
+\chapter*{Nomenclature}
+\label{sec:nomenclature}
+bla
+
+\chapter{Introduction}
+\label{ch:intro}
+\lipsum[4]
+
+\section{Background}
+\label{sec:background}
+
+\chapter{Theory}
+\label{ch:theory}
+
+\section{Maxwell's Equations}
+\label{sec:maxwell}
+
+
+\section{Mathematical model}
+\label{sec:mathmodel}
+
+\lipsum[4]
+
+\lipsum{100-150}
+
+% A dummy command that causes all bibliographyentries to be displayed
+% even though there were not cited in the document. Used for demonstration
+% purposes only in this template file.
+~\nocite{*}
+
+\cleardoublepage
+
+% The bibliography should be displayed here...
+\printbibliography[heading=bibintoc]
+% You rather like to call the bibliography "References"? Then use this instead:
+%\printbibliography[heading=bibintoc, title={References}]
+
+
+\appendix
+%\renewcommand{\appendixname}{Paper} %% So we get 'Paper X' displayed instead
+
+
+\chapter[Short Title of Paper A]{Title of Paper A (probably very long and therefore not good to have in the header)}
+\label{appendix-a}
+
+
+\chapter[Short Title of Paper B]{Title of Paper B}
+\label{appendix-b}
+
+\end{document}
+
