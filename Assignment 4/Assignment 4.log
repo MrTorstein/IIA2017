@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2024.3.7)  10 MAR 2024 21:43
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2024.3.7)  26 MAR 2024 00:50
  restricted system commands enabled.
 **"Assignment 4.tex"
 ("./Assignment 4.tex"
@@ -1003,34 +1003,34 @@ File: Parameters_3.png Graphic file (type png)
 <use Parameters_3.png>
 Package luatex.def Info: Parameters_3.png  used on input line 162.
 (luatex.def)             Requested size: 390.0pt x 412.72835pt.
-<Timing Diagram.jpg, id=220, 948.54375pt x 421.575pt>
-File: Timing Diagram.jpg Graphic file (type jpg)
-<use Timing Diagram.jpg>
-Package luatex.def Info: Timing Diagram.jpg  used on input line 167.
-(luatex.def)             Requested size: 390.0pt x 173.32932pt.
+<Timing Diagram 2.png, id=220, 986.9372pt x 123.46124pt>
+File: Timing Diagram 2.png Graphic file (type png)
+<use Timing Diagram 2.png>
+Package luatex.def Info: Timing Diagram 2.png  used on input line 167.
+(luatex.def)             Requested size: 390.0pt x 48.7883pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
 [17<./Runtime_start3.png>] [18<./Runtime_stop3.png>]
-<Parameters_4.png, id=242, 467.49657pt x 493.0922pt>
+<Parameters_4.png, id=243, 467.49657pt x 493.0922pt>
 File: Parameters_4.png Graphic file (type png)
 <use Parameters_4.png>
 Package luatex.def Info: Parameters_4.png  used on input line 177.
 (luatex.def)             Requested size: 390.0pt x 411.37312pt.
- [19] [20<./Parameters_3.png>] [21<./Timing Diagram.jpg>] [22<./Parameters_4.png
->]
+ [19] [20<./Parameters_3.png>] [21<./Timing Diagram 2.png>] [22<./Parameters_4.p
+ng>]
 Chapter 3.
-<csv.png, id=268, 511.15968pt x 418.56375pt>
+<csv.png, id=270, 606.76688pt x 562.35094pt>
 File: csv.png Graphic file (type png)
 <use csv.png>
 Package luatex.def Info: csv.png  used on input line 186.
-(luatex.def)             Requested size: 390.0pt x 319.35077pt.
-<DAQterminal.png, id=269, 493.845pt x 472.01344pt>
+(luatex.def)             Requested size: 390.0pt x 361.4565pt.
+<DAQterminal.png, id=271, 839.38594pt x 470.50781pt>
 File: DAQterminal.png Graphic file (type png)
 <use DAQterminal.png>
 Package luatex.def Info: DAQterminal.png  used on input line 192.
-(luatex.def)             Requested size: 390.0pt x 372.75688pt.
+(luatex.def)             Requested size: 390.0pt x 218.61156pt.
 [23
 
 ] [24<./csv.png>] [25<./DAQterminal.png>] [26
@@ -1059,7 +1059,7 @@ File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 ]
 Chapter 6.
-<Flowchart.png, id=338, 485.56406pt x 289.08pt>
+<Flowchart.png, id=340, 485.56406pt x 289.08pt>
 File: Flowchart.png Graphic file (type png)
 <use Flowchart.png>
 Package luatex.def Info: Flowchart.png  used on input line 233.
@@ -1082,8 +1082,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38])
-[39] ("./Assignment 4.aux")
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39])
+[40] ("./Assignment 4.aux")
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1105,12 +1108,12 @@ Package logreq Info: Writing requests to '"Assignment 4".run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 21322 strings out of 476553
- 195341,1977958 words of node,token memory allocated
+ 21360 strings out of 476553
+ 195346,1977958 words of node,token memory allocated
  654 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 23 attribute, 68 glue_spec
 , 13 attribute_list, 1 write, 7 pdf_action nodes
-   avail lists: 1:5,2:4487,3:325,4:785,5:3194,6:76,7:11866,8:79,9:7834,10:22,11:
+   avail lists: 1:6,2:3811,3:326,4:756,5:2882,6:78,7:11948,8:79,9:6931,10:22,11:
 570
  42666 multiletter control sequences out of 65536+600000
  64 fonts using 4028815 bytes
@@ -1123,9 +1126,9 @@ b><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.
 pfb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt1
 0.pfb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmt
 t12.pfb>
-Output written on Assignment 4.pdf (39 pages, 621713 bytes).
+Output written on Assignment 4.pdf (40 pages, 621123 bytes).
 
-PDF statistics: 547 PDF objects out of 1000 (max. 8388607)
- 225 named destinations out of 1000 (max. 131072)
+PDF statistics: 591 PDF objects out of 1000 (max. 8388607)
+ 263 named destinations out of 1000 (max. 131072)
  137 words of extra memory for PDF output out of 10000 (max. 100000000)
 

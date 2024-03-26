@@ -164,11 +164,11 @@ The control system specified by Skeie \cite{task} needs a Real Time Operating Sy
 \label{im:ROTSparams}
 			\end{figure}
 			\begin{figure}
-\includegraphics[width=\linewidth]{Timing Diagram.jpg}
-\caption{The sequence diagram of a single event of the control system. The interrupt goes of and any other tasks are stopped before the pump is set to a new value and the old task can start again.}
+\includegraphics[width=\linewidth]{Timing Diagram 2.png}
+\caption{The timing diagram of a single event of the control system for each RTOS. The interrupt goes of and any other tasks are stopped before Task 1 and pump is performed and then the old task can start again.}
 \label{im:TimingDiag}
 			\end{figure}
-Since a ROTS must contain at least 16 priority levels \cite{LN}, ROTS\#1 is excluded and the others can be chosen. From the calculation of the response time from a switch is activated to the pump state is changed, ROTS\#2 is unattractive as it has a response time of 249.85ms and the required time is 250ms. This limits the options to the two last, and with the highest number of tasks, interrupt levels and lowest response time, ROTS\#4 is chosen to be used.
+Since a ROTS must contain at least 16 priority levels \cite{LN}, ROTS\#1 is excluded and the others can be chosen. From the calculation of the response time from a switch is activated to the pump state is changed, ROTS\#2 is unattractive as it has a response time of 249.85ms and the required time is 250ms. This limits the options to the two last, and with the highest number of tasks, interrupt levels and lowest response time, ROTS\#4 is chosen to be used. A Timing diagram used for this analysis can be seen in figure \ref{im:TimingDiag}.
 
 		\section{DAQ Simulator}
 The DAQ simulator is developed in the programming language python. This allows it to use the inbuilt threading capabilities of the threading package \cite{threading}. The parameters used for the application can be seen in figure \ref{im:DAQparams} and an explanation of the requirements are given in the specification \cite{task}.
