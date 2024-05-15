@@ -1,0 +1,78 @@
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Display and Alarm System.exe
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Display and Alarm System.deps.json
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Display and Alarm System.runtimeconfig.json
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Display and Alarm System.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Display and Alarm System.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\ScottPlot.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.csproj.AssemblyReference.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display_and_Alarm_System.Window.resources
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display_and_Alarm_System.Properties.Resources.resources
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.csproj.GenerateResource.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.AssemblyInfoInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.AssemblyInfo.cs
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.csproj.CoreCompileInputs.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.sourcelink.json
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display .FB53A1D2.Up2Date
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\refint\Display and Alarm System.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.pdb
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\Display and Alarm System.genruntimeconfig.cache
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\obj\Debug\net8.0-windows\ref\Display and Alarm System.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 6\Display and Alarm System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
