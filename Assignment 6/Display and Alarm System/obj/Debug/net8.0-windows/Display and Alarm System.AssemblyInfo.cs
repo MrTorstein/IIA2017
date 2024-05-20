@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Display and Alarm System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b34904a3acd2578519592c0854952563b100621")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab790037e2f86454a880a2f33ec37f3d96846b33")]
 [assembly: System.Reflection.AssemblyProductAttribute("Display and Alarm System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Display and Alarm System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

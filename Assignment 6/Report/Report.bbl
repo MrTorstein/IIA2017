@@ -16,5 +16,291 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{airheater}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d37c9e95edf834c75fb63b12e662753d}{%
+           family={Haugen},
+           familyi={H\bibinitperiod},
+           given={Finn\bibnamedelima Aakre},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{fullhash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{bibnamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authorbibnamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authornamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authorfullhash}{d37c9e95edf834c75fb63b12e662753d}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 15.05.2024)}
+      \field{title}{Lab Station: Air Heater}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://techteach.no/lab/air_heater/
+      \endverb
+      \verb{url}
+      \verb https://techteach.no/lab/air_heater/
+      \endverb
+    \endentry
+    \entry{airheatermodel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d37c9e95edf834c75fb63b12e662753d}{%
+           family={Haugen},
+           familyi={H\bibinitperiod},
+           given={Finn\bibnamedelima Aakre},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{fullhash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{bibnamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authorbibnamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authornamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authorfullhash}{d37c9e95edf834c75fb63b12e662753d}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24.04.2024)}
+      \field{title}{LLB\_air\_heater\_model.llb}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb http://techteach.no/courses/fm1220/2023/assignment1/LLB_air_heater_model.llb
+      \endverb
+      \verb{url}
+      \verb http://techteach.no/courses/fm1220/2023/assignment1/LLB_air_heater_model.llb
+      \endverb
+    \endentry
+    \entry{LabVIEW}{online}{}
+      \name{author}{1}{}{%
+        {{hash=62141adb3028a050b9b4457885af722a}{%
+           family={NI},
+           familyi={N\bibinitperiod},
+           given={Emerson},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{62141adb3028a050b9b4457885af722a}
+      \strng{fullhash}{62141adb3028a050b9b4457885af722a}
+      \strng{bibnamehash}{62141adb3028a050b9b4457885af722a}
+      \strng{authorbibnamehash}{62141adb3028a050b9b4457885af722a}
+      \strng{authornamehash}{62141adb3028a050b9b4457885af722a}
+      \strng{authorfullhash}{62141adb3028a050b9b4457885af722a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 08.01.2024)}
+      \field{title}{LabVIEW}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.ni.com/en/support/downloads/software-products/download.labview.html#484385
+      \endverb
+      \verb{url}
+      \verb https://www.ni.com/en/support/downloads/software-products/download.labview.html#484385
+      \endverb
+    \endentry
+    \entry{MA}{online}{}
+      \name{author}{1}{}{%
+        {{hash=d37c9e95edf834c75fb63b12e662753d}{%
+           family={Haugen},
+           familyi={H\bibinitperiod},
+           given={Finn\bibnamedelima Aakre},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{fullhash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{bibnamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authorbibnamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authornamehash}{d37c9e95edf834c75fb63b12e662753d}
+      \strng{authorfullhash}{d37c9e95edf834c75fb63b12e662753d}
+      \field{extraname}{3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 16.05.2024)}
+      \field{title}{Modeling, Simulation and Control}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://techteach.no/control/modsimcon/mod_sim_con_2023_08_24.pdf
+      \endverb
+      \verb{url}
+      \verb https://techteach.no/control/modsimcon/mod_sim_con_2023_08_24.pdf
+      \endverb
+    \endentry
+    \entry{SQL}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 01.04.2024)}
+      \field{title}{Try SQL Server on-premises or in the cloud}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+      \endverb
+    \endentry
+    \entry{erwin}{online}{}
+      \name{author}{1}{}{%
+        {{hash=687bbd97fc05fa7cff320df71aa3731b}{%
+           family={Quest},
+           familyi={Q\bibinitperiod},
+           prefix={erwin\bibnamedelima by},
+           prefixi={e\bibinitperiod\bibinitdelim b\bibinitperiod}}}%
+      }
+      \strng{namehash}{687bbd97fc05fa7cff320df71aa3731b}
+      \strng{fullhash}{687bbd97fc05fa7cff320df71aa3731b}
+      \strng{bibnamehash}{687bbd97fc05fa7cff320df71aa3731b}
+      \strng{authorbibnamehash}{687bbd97fc05fa7cff320df71aa3731b}
+      \strng{authornamehash}{687bbd97fc05fa7cff320df71aa3731b}
+      \strng{authorfullhash}{687bbd97fc05fa7cff320df71aa3731b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 01.04.2024)}
+      \field{title}{erwin Data Modeler Academic Edition}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.erwin.com/register/140454/
+      \endverb
+      \verb{url}
+      \verb https://www.erwin.com/register/140454/
+      \endverb
+    \endentry
+    \entry{VS}{online}{}
+      \name{author}{1}{}{%
+        {{hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24.02.2024)}
+      \field{title}{Visual Studio}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://visualstudio.microsoft.com
+      \endverb
+      \verb{url}
+      \verb https://visualstudio.microsoft.com
+      \endverb
+    \endentry
+    \entry{SQLClient}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e59dd1d902ad1b8f887754b6d1ef7032}{%
+           family={Foundation},
+           familyi={F\bibinitperiod},
+           given={.NET},
+           giveni={.\bibinitperiod}}}%
+      }
+      \strng{namehash}{e59dd1d902ad1b8f887754b6d1ef7032}
+      \strng{fullhash}{e59dd1d902ad1b8f887754b6d1ef7032}
+      \strng{bibnamehash}{e59dd1d902ad1b8f887754b6d1ef7032}
+      \strng{authorbibnamehash}{e59dd1d902ad1b8f887754b6d1ef7032}
+      \strng{authornamehash}{e59dd1d902ad1b8f887754b6d1ef7032}
+      \strng{authorfullhash}{e59dd1d902ad1b8f887754b6d1ef7032}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 11.05.2024)}
+      \field{title}{dotnet/SqlClient}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/dotnet/SqlClient
+      \endverb
+      \verb{url}
+      \verb https://github.com/dotnet/SqlClient
+      \endverb
+    \endentry
+    \entry{ScottPlott}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ae58de859505a8ed7be275e935c6ad95}{%
+           family={Harden},
+           familyi={H\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ae58de859505a8ed7be275e935c6ad95}
+      \strng{fullhash}{ae58de859505a8ed7be275e935c6ad95}
+      \strng{bibnamehash}{ae58de859505a8ed7be275e935c6ad95}
+      \strng{authorbibnamehash}{ae58de859505a8ed7be275e935c6ad95}
+      \strng{authornamehash}{ae58de859505a8ed7be275e935c6ad95}
+      \strng{authorfullhash}{ae58de859505a8ed7be275e935c6ad95}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 11.05.2024)}
+      \field{title}{ScottPlot}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://scottplot.net/
+      \endverb
+      \verb{url}
+      \verb https://scottplot.net/
+      \endverb
+    \endentry
+    \entry{github}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b23e733028587db1f881d7f7dcd453ae}{%
+           family={Olberg},
+           familyi={O\bibinitperiod},
+           given={Torstein\bibnamedelima Solheim},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{fullhash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{bibnamehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{authorbibnamehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{authornamehash}{b23e733028587db1f881d7f7dcd453ae}
+      \strng{authorfullhash}{b23e733028587db1f881d7f7dcd453ae}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 16.05.2024)}
+      \field{title}{IIA2017/Assignment 6}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://github.com/MrTorstein/IIA2017/tree/main/Assignment%206
+      \endverb
+      \verb{url}
+      \verb https://github.com/MrTorstein/IIA2017/tree/main/Assignment%206
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

@@ -34,7 +34,8 @@
               "RelativeToolTip": "Tools.cs",
               "ViewState": "AQIAAEwAAAAAAAAAAAAYwFsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:31:22.86Z"
+              "WhenOpened": "2024-05-12T10:31:22.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +45,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 6\\Display and Alarm System\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAwwOQAAAAeAAAA",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAiwOQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T16:52:25.221Z",
               "EditorCaption": ""
@@ -58,7 +59,8 @@
               "ToolTip": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 6\\Display and Alarm System\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:47:22.207Z"
+              "WhenOpened": "2024-05-11T14:47:22.207Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

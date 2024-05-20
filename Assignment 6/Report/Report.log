@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2024.3.7)  15 MAY 2024 21:40
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2024.3.7)  20 MAY 2024 14:40
  restricted system commands enabled.
 **Report.tex
 (./Report.tex
@@ -263,6 +263,28 @@ bel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
+(C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+(C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks29
+)
+\caption@tempdima=\dimen150
+\captionmargin=\dimen151
+\caption@leftmargin=\dimen152
+\caption@rightmargin=\dimen153
+\caption@width=\dimen154
+\caption@indent=\dimen155
+\caption@parindent=\dimen156
+\caption@hangindent=\dimen157
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count272
+\c@continuedfloat=\count273
+)
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
 
@@ -279,10 +301,10 @@ File: luatex.def 2022/09/22 v1.2d Graphics/color driver for luatex
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.l
 tx)) (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count272
-\float@exts=\toks29
+\c@float@type=\count274
+\float@exts=\toks30
 \float@box=\box53
-\@float@everytoks=\toks30
+\@float@everytoks=\toks31
 \@floatcapt=\box54
 ) (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -292,14 +314,33 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
+(C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks32
+
+(C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cf
+g))
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.st
 y
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks31
-)
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.st
 y
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
@@ -312,15 +353,13 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: luatex.def on input line 107.
 )
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.st
 y
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
- (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
+
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.
 sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
@@ -349,7 +388,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-\pdftexcmds@toks=\toks32
+\pdftexcmds@toks=\toks33
 ))
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
@@ -372,16 +411,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count273
+\c@section@level=\count278
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.st
 y
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count274
+\etb@tempcnta=\count279
 )
-\@linkdim=\dimen152
-\Hy@linkcounter=\count275
-\Hy@pagecounter=\count276
+\@linkdim=\dimen168
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
@@ -390,7 +429,7 @@ File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 y
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count277
+\Hy@SavedSpaceFactor=\count282
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
@@ -403,14 +442,14 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count278
+\c@Hy@tempcnt=\count283
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen153
+\XeTeXLinkMargin=\dimen169
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -420,9 +459,9 @@ alc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count279
-\Field@Width=\dimen154
-\Fld@charsize=\dimen155
+\Fld@menulength=\count284
+\Field@Width=\dimen170
+\Fld@charsize=\dimen171
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
@@ -436,9 +475,9 @@ y
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count280
-\c@Item=\count281
-\c@Hfootnote=\count282
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -456,8 +495,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count283
-\c@bookmark@seq@number=\count284
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerun
 filecheck.sty
@@ -474,8 +513,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks33
-\inpenc@posthook=\toks34
+\inpenc@prehook=\toks34
+\inpenc@posthook=\toks35
 
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
@@ -483,23 +522,23 @@ Package inputenc Warning: inputenc package ignored with utf8 based engines.
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.st
 y
-\lst@mode=\count285
+\lst@mode=\count290
 \lst@gtempboxa=\box55
-\lst@token=\toks35
-\lst@length=\count286
-\lst@currlwidth=\dimen156
-\lst@column=\count287
-\lst@pos=\count288
-\lst@lostspace=\dimen157
-\lst@width=\dimen158
-\lst@newlines=\count289
-\lst@lineno=\count290
-\lst@maxwidth=\dimen159
+\lst@token=\toks36
+\lst@length=\count291
+\lst@currlwidth=\dimen172
+\lst@column=\count292
+\lst@pos=\count293
+\lst@lostspace=\dimen173
+\lst@width=\dimen174
+\lst@newlines=\count294
+\lst@lineno=\count295
+\lst@maxwidth=\dimen175
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count291
-\lst@skipnumbers=\count292
+\c@lstnumber=\count296
+\lst@skipnumbers=\count297
 \lst@framebox=\box56
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.cf
@@ -516,7 +555,7 @@ y
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count293
+\lrq@indent=\count298
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -524,49 +563,49 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count294
-\c@listtotal=\count295
-\c@listcount=\count296
-\c@liststart=\count297
-\c@liststop=\count298
-\c@citecount=\count299
-\c@citetotal=\count300
-\c@multicitecount=\count301
-\c@multicitetotal=\count302
-\c@instcount=\count303
-\c@maxnames=\count304
-\c@minnames=\count305
-\c@maxitems=\count306
-\c@minitems=\count307
-\c@citecounter=\count308
-\c@maxcitecounter=\count309
-\c@savedcitecounter=\count310
-\c@uniquelist=\count311
-\c@uniquename=\count312
-\c@refsection=\count313
-\c@refsegment=\count314
-\c@maxextratitle=\count315
-\c@maxextratitleyear=\count316
-\c@maxextraname=\count317
-\c@maxextradate=\count318
-\c@maxextraalpha=\count319
-\c@abbrvpenalty=\count320
-\c@highnamepenalty=\count321
-\c@lownamepenalty=\count322
-\c@maxparens=\count323
-\c@parenlevel=\count324
-\blx@tempcnta=\count325
-\blx@tempcntb=\count326
-\blx@tempcntc=\count327
-\c@blx@maxsection=\count328
-\blx@maxsegment@0=\count329
-\blx@notetype=\count330
-\blx@parenlevel@text=\count331
-\blx@parenlevel@foot=\count332
-\blx@sectionciteorder@0=\count333
-\blx@sectionciteorderinternal@0=\count334
-\blx@entrysetcounter=\count335
-\blx@biblioinstance=\count336
+\c@tabx@nest=\count299
+\c@listtotal=\count300
+\c@listcount=\count301
+\c@liststart=\count302
+\c@liststop=\count303
+\c@citecount=\count304
+\c@citetotal=\count305
+\c@multicitecount=\count306
+\c@multicitetotal=\count307
+\c@instcount=\count308
+\c@maxnames=\count309
+\c@minnames=\count310
+\c@maxitems=\count311
+\c@minitems=\count312
+\c@citecounter=\count313
+\c@maxcitecounter=\count314
+\c@savedcitecounter=\count315
+\c@uniquelist=\count316
+\c@uniquename=\count317
+\c@refsection=\count318
+\c@refsegment=\count319
+\c@maxextratitle=\count320
+\c@maxextratitleyear=\count321
+\c@maxextraname=\count322
+\c@maxextradate=\count323
+\c@maxextraalpha=\count324
+\c@abbrvpenalty=\count325
+\c@highnamepenalty=\count326
+\c@lownamepenalty=\count327
+\c@maxparens=\count328
+\c@parenlevel=\count329
+\blx@tempcnta=\count330
+\blx@tempcntb=\count331
+\blx@tempcntc=\count332
+\c@blx@maxsection=\count333
+\blx@maxsegment@0=\count334
+\blx@notetype=\count335
+\blx@parenlevel@text=\count336
+\blx@parenlevel@foot=\count337
+\blx@sectionciteorder@0=\count338
+\blx@sectionciteorderinternal@0=\count339
+\blx@entrysetcounter=\count340
+\blx@biblioinstance=\count341
 \labelnumberwidth=\skip57
 \labelalphawidth=\skip58
 \biblabelsep=\skip59
@@ -578,9 +617,9 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count337
-\c@maxcomprange=\count338
-\c@mincompwidth=\count339
+\c@mincomprange=\count342
+\c@maxcomprange=\count343
+\c@mincompwidth=\count344
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -591,74 +630,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'ieee.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count340
-\c@savedafterword=\count341
-\c@annotator=\count342
-\c@savedannotator=\count343
-\c@author=\count344
-\c@savedauthor=\count345
-\c@bookauthor=\count346
-\c@savedbookauthor=\count347
-\c@commentator=\count348
-\c@savedcommentator=\count349
-\c@editor=\count350
-\c@savededitor=\count351
-\c@editora=\count352
-\c@savededitora=\count353
-\c@editorb=\count354
-\c@savededitorb=\count355
-\c@editorc=\count356
-\c@savededitorc=\count357
-\c@foreword=\count358
-\c@savedforeword=\count359
-\c@holder=\count360
-\c@savedholder=\count361
-\c@introduction=\count362
-\c@savedintroduction=\count363
-\c@namea=\count364
-\c@savednamea=\count365
-\c@nameb=\count366
-\c@savednameb=\count367
-\c@namec=\count368
-\c@savednamec=\count369
-\c@translator=\count370
-\c@savedtranslator=\count371
-\c@shortauthor=\count372
-\c@savedshortauthor=\count373
-\c@shorteditor=\count374
-\c@savedshorteditor=\count375
-\c@labelname=\count376
-\c@savedlabelname=\count377
-\c@institution=\count378
-\c@savedinstitution=\count379
-\c@lista=\count380
-\c@savedlista=\count381
-\c@listb=\count382
-\c@savedlistb=\count383
-\c@listc=\count384
-\c@savedlistc=\count385
-\c@listd=\count386
-\c@savedlistd=\count387
-\c@liste=\count388
-\c@savedliste=\count389
-\c@listf=\count390
-\c@savedlistf=\count391
-\c@location=\count392
-\c@savedlocation=\count393
-\c@organization=\count394
-\c@savedorganization=\count395
-\c@origlocation=\count396
-\c@savedoriglocation=\count397
-\c@origpublisher=\count398
-\c@savedorigpublisher=\count399
-\c@publisher=\count400
-\c@savedpublisher=\count401
-\c@language=\count402
-\c@savedlanguage=\count403
-\c@origlanguage=\count404
-\c@savedoriglanguage=\count405
-\c@pageref=\count406
-\c@savedpageref=\count407
+\c@afterword=\count345
+\c@savedafterword=\count346
+\c@annotator=\count347
+\c@savedannotator=\count348
+\c@author=\count349
+\c@savedauthor=\count350
+\c@bookauthor=\count351
+\c@savedbookauthor=\count352
+\c@commentator=\count353
+\c@savedcommentator=\count354
+\c@editor=\count355
+\c@savededitor=\count356
+\c@editora=\count357
+\c@savededitora=\count358
+\c@editorb=\count359
+\c@savededitorb=\count360
+\c@editorc=\count361
+\c@savededitorc=\count362
+\c@foreword=\count363
+\c@savedforeword=\count364
+\c@holder=\count365
+\c@savedholder=\count366
+\c@introduction=\count367
+\c@savedintroduction=\count368
+\c@namea=\count369
+\c@savednamea=\count370
+\c@nameb=\count371
+\c@savednameb=\count372
+\c@namec=\count373
+\c@savednamec=\count374
+\c@translator=\count375
+\c@savedtranslator=\count376
+\c@shortauthor=\count377
+\c@savedshortauthor=\count378
+\c@shorteditor=\count379
+\c@savedshorteditor=\count380
+\c@labelname=\count381
+\c@savedlabelname=\count382
+\c@institution=\count383
+\c@savedinstitution=\count384
+\c@lista=\count385
+\c@savedlista=\count386
+\c@listb=\count387
+\c@savedlistb=\count388
+\c@listc=\count389
+\c@savedlistc=\count390
+\c@listd=\count391
+\c@savedlistd=\count392
+\c@liste=\count393
+\c@savedliste=\count394
+\c@listf=\count395
+\c@savedlistf=\count396
+\c@location=\count397
+\c@savedlocation=\count398
+\c@organization=\count399
+\c@savedorganization=\count400
+\c@origlocation=\count401
+\c@savedoriglocation=\count402
+\c@origpublisher=\count403
+\c@savedorigpublisher=\count404
+\c@publisher=\count405
+\c@savedpublisher=\count406
+\c@language=\count407
+\c@savedlanguage=\count408
+\c@origlanguage=\count409
+\c@savedoriglanguage=\count410
+\c@pageref=\count411
+\c@savedpageref=\count412
 \shorthandwidth=\skip65
 \shortjournalwidth=\skip66
 \shortserieswidth=\skip67
@@ -691,19 +730,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.de
 f
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count408
-\c@textcitetotal=\count409
-\c@textcitemaxnames=\count410
-\c@biburlbigbreakpenalty=\count411
-\c@biburlbreakpenalty=\count412
-\c@biburlnumpenalty=\count413
-\c@biburlucpenalty=\count414
-\c@biburllcpenalty=\count415
+\c@textcitecount=\count413
+\c@textcitetotal=\count414
+\c@textcitemaxnames=\count415
+\c@biburlbigbreakpenalty=\count416
+\c@biburlbreakpenalty=\count417
+\c@biburlnumpenalty=\count418
+\c@biburlucpenalty=\count419
+\c@biburllcpenalty=\count420
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count416
+\c@smartand=\count421
 )
 Package biblatex Info: Trying to load bibliography style 'ieee'...
 Package biblatex Info: ... file 'ieee.bbx' found.
@@ -729,8 +768,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/standar
 d.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count417
-\c@bbx:relatedtotal=\count418
+\c@bbx:relatedcount=\count422
+\c@bbx:relatedtotal=\count423
 ))))
 Package biblatex Info: Trying to load citation style 'ieee'...
 Package biblatex Info: ... file 'ieee.cbx' found.
@@ -744,10 +783,10 @@ Package biblatex Info: ... file 'numeric-comp.cbx' found.
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/cbx/numeric
 -comp.cbx
 File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
-\c@cbx@tempcnta=\count419
-\c@cbx@tempcntb=\count420
-\c@cbx@tempcntc=\count421
-\c@cbx@tempcntd=\count422
+\c@cbx@tempcnta=\count424
+\c@cbx@tempcntb=\count425
+\c@cbx@tempcntc=\count426
+\c@cbx@tempcntd=\count427
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -781,7 +820,7 @@ Package: expl3 2024-01-22 L3 programming layer (loader)
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-
 luatex.def
 File: l3backend-luatex.def 2024-01-04 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count423
+\l__color_backend_stack_int=\count428
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box57
 ))
@@ -803,42 +842,42 @@ Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen160
+\col@sep=\dimen176
 \ar@mcellbox=\box58
-\extrarowheight=\dimen161
-\NC@list=\toks36
+\extrarowheight=\dimen177
+\NC@list=\toks37
 \extratabsurround=\skip79
 \backup@length=\skip80
 \ar@cellbox=\box59
 )
-\TX@col@width=\dimen162
-\TX@old@table=\dimen163
-\TX@old@col=\dimen164
-\TX@target=\dimen165
-\TX@delta=\dimen166
-\TX@cols=\count424
-\TX@ftn=\toks37
+\TX@col@width=\dimen178
+\TX@old@table=\dimen179
+\TX@old@col=\dimen180
+\TX@target=\dimen181
+\TX@delta=\dimen182
+\TX@cols=\count429
+\TX@ftn=\toks38
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
-\c@tracingmulticols=\count425
+\c@tracingmulticols=\count430
 \mult@box=\box60
-\multicol@leftmargin=\dimen167
-\c@unbalance=\count426
-\c@collectmore=\count427
-\doublecol@number=\count428
-\multicoltolerance=\count429
-\multicolpretolerance=\count430
-\full@width=\dimen168
-\page@free=\dimen169
-\premulticols=\dimen170
-\postmulticols=\dimen171
+\multicol@leftmargin=\dimen183
+\c@unbalance=\count431
+\c@collectmore=\count432
+\doublecol@number=\count433
+\multicoltolerance=\count434
+\multicolpretolerance=\count435
+\full@width=\dimen184
+\page@free=\dimen185
+\premulticols=\dimen186
+\postmulticols=\dimen187
 \multicolsep=\skip81
 \multicolbaselineskip=\skip82
 \partial@page=\box61
 \last@line=\box62
 \mc@boxedresult=\box63
-\maxbalancingoverflow=\dimen172
+\maxbalancingoverflow=\dimen188
 \mult@rightbox=\box64
 \mult@grightbox=\box65
 \mult@firstbox=\box66
@@ -879,28 +918,28 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box101
 \@tempa=\box102
 \@tempa=\box103
-\c@minrows=\count431
-\c@columnbadness=\count432
-\c@finalcolumnbadness=\count433
-\last@try=\dimen173
-\multicolovershoot=\dimen174
-\multicolundershoot=\dimen175
+\c@minrows=\count436
+\c@columnbadness=\count437
+\c@finalcolumnbadness=\count438
+\last@try=\dimen189
+\multicolovershoot=\dimen190
+\multicolundershoot=\dimen191
 \mult@nat@firstbox=\box104
 \colbreak@box=\box105
-\mc@col@check@num=\count434
+\mc@col@check@num=\count439
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang1.st
 y
 File: lstlang1.sty 2023/02/27 1.9 listings language file
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 38.
+Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count435
-\@quotereset=\count436
+\@quotelevel=\count440
+\@quotereset=\count441
 
 LaTeX Warning: Unused global option(s):
     [A4paper].
@@ -908,47 +947,52 @@ LaTeX Warning: Unused global option(s):
 (./Report.aux)
 \openout1 = Report.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-1.
+9.
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf
 .mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count437
-\scratchdimen=\dimen176
+\scratchcounter=\count442
+\scratchdimen=\dimen192
 \scratchbox=\box106
-\nofMPsegments=\count438
-\nofMParguments=\count439
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count440
-\MPscratchDim=\dimen177
-\MPnumerator=\count441
-\makeMPintoPDFobject=\count442
-\everyMPtoPDFconversion=\toks39
+\nofMPsegments=\count443
+\nofMParguments=\count444
+\everyMPshowfont=\toks39
+\MPscratchCnt=\count445
+\MPscratchDim=\dimen193
+\MPnumerator=\count446
+\makeMPintoPDFobject=\count447
+\everyMPtoPDFconversion=\toks40
 )
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopd
 f-base.sty
@@ -960,12 +1004,46 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 51.
- (./Report.out) (./Report.out)
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(35.56595pt, 526.37598pt, 35.56595pt)
+* v-part:(T,H,B)=(64.87228pt, 682.86613pt, 97.30843pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=530.0pt
+* \textheight=682.86613pt
+* \oddsidemargin=-36.70404pt
+* \evensidemargin=-36.70404pt
+* \topmargin=-44.3977pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 59.
+(./Report.out) (./Report.out)
 \@outlinefile=\write4
 
 \openout4 = Report.out
-\c@lstlisting=\count443
+\c@lstlisting=\count448
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -982,74 +1060,148 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Report.bbl' found.
  (./Report.bbl)
-Package biblatex Info: Reference section=0 on input line 51.
-Package biblatex Info: Reference segment=0 on input line 51.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 53.
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
 
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 53.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
 
 
 (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 5741) in paragraph at lines 56--57
-\T1/lmr/bx/n/10.95 Key-word: \T1/lmr/m/it/10.95 SCADA, Lab-VIEW,
+Underfull \hbox (badness 10000) in paragraph at lines 64--67
+
  []
 
-<SCADA_sketch.png, id=32, 3057.4225pt x 2486.28876pt>
+<SCADA_sketch.png, id=76, 3057.4225pt x 2486.28876pt>
 File: SCADA_sketch.png Graphic file (type png)
 <use SCADA_sketch.png>
-Package luatex.def Info: SCADA_sketch.png  used on input line 61.
-(luatex.def)             Requested size: 175.0pt x 142.30417pt.
+Package luatex.def Info: SCADA_sketch.png  used on input line 71.
+(luatex.def)             Requested size: 260.0pt x 211.42659pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--64
+Underfull \hbox (badness 10000) in paragraph at lines 69--74
 
  []
 
 [1
 
 {C:/Users/Torstein/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./SCADA_ske
-tch.png>]
+tch.png>] [2]
+<Tuned model with filter data.png, id=130, 352.31625pt x 329.73187pt>
+File: Tuned model with filter data.png Graphic file (type png)
+<use Tuned model with filter data.png>
+Package luatex.def Info: Tuned model with filter data.png  used on input line 1
+32.
+(luatex.def)             Requested size: 260.0pt x 243.33362pt.
 
-LaTeX Warning: Empty bibliography on input line 84.
+Underfull \hbox (badness 10000) in alignment at lines 151--151
+[][]
+ []
 
-[2] (./Report.aux)
+
+Underfull \hbox (badness 10000) in alignment at lines 167--167
+[][]
+ []
+
+[3<./Tuned model with filter data.png>]
+<DAQ.png, id=149, 734.745pt x 654.19406pt>
+File: DAQ.png Graphic file (type png)
+<use DAQ.png>
+Package luatex.def Info: DAQ.png  used on input line 174.
+(luatex.def)             Requested size: 260.0pt x 231.49684pt.
+<OPC Server.png, id=151, 483.30562pt x 295.85532pt>
+File: OPC Server.png Graphic file (type png)
+<use OPC Server.png>
+Package luatex.def Info: OPC Server.png  used on input line 182.
+(luatex.def)             Requested size: 260.0pt x 159.16359pt.
+<Datalogger.png, id=153, 809.27344pt x 450.9347pt>
+File: Datalogger.png Graphic file (type png)
+<use Datalogger.png>
+Package luatex.def Info: Datalogger.png  used on input line 190.
+(luatex.def)             Requested size: 260.0pt x 144.87314pt.
+<Diagram.png, id=155, 340.27126pt x 232.61906pt>
+File: Diagram.png Graphic file (type png)
+<use Diagram.png>
+Package luatex.def Info: Diagram.png  used on input line 196.
+(luatex.def)             Requested size: 260.0pt x 177.75067pt.
+<Display and Alarm System.png, id=157, 590.205pt x 351.56343pt>
+File: Display and Alarm System.png Graphic file (type png)
+<use Display and Alarm System.png>
+Package luatex.def Info: Display and Alarm System.png  used on input line 203.
+(luatex.def)             Requested size: 260.0pt x 154.87613pt.
+ [4<./DAQ.png><./OPC Server.png><./Datalogger.png>]
+<Alarm.png, id=170, 718.18312pt x 130.98938pt>
+File: Alarm.png Graphic file (type png)
+<use Alarm.png>
+Package luatex.def Info: Alarm.png  used on input line 208.
+(luatex.def)             Requested size: 260.0pt x 47.42197pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--213
+
+ []
+
+<Complete Setup.png, id=174, 1445.4pt x 776.14969pt>
+File: Complete Setup.png Graphic file (type png)
+<use Complete Setup.png>
+Package luatex.def Info: Complete Setup.png  used on input line 217.
+(luatex.def)             Requested size: 260.0pt x 139.60617pt.
+[5<./Diagram.png><./Display and Alarm System.png><./Alarm.png><./Complete Setup.
+png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
+30.
+ (C:/Users/Torstein/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 5741) in paragraph at lines 231--231
+[]\T1/lmr/m/n/10.95 F. A. Hau-gen. ``Llb_air_heater_model.llb.''
+ []
+
+[6] (./Report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: FB19833326C0B5221DEF59E5FE0CA0CA;696.
+(rerunfilecheck)             Checksum: ABDFB3B2951422BE73908E8630198761;2482.
 Package logreq Info: Writing requests to 'Report.run.xml'.
 
 \openout1 = Report.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 20506 strings out of 476553
- 100000,1977958 words of node,token memory allocated
- 586 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 13 attribute, 67 glue_spec
-, 8 attribute_list, 1 write nodes
-   avail lists: 1:1,2:335,3:147,4:44,5:260,6:30,7:4518,8:1,9:290,10:12,11:318
- 42103 multiletter control sequences out of 65536+600000
- 41 fonts using 2501423 bytes
- 72i,7n,78p,1130b,1789s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C
-:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb>
-<C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
-b><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.p
-fb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.
-pfb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17
-.pfb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri
-10.pfb>
-Output written on Report.pdf (2 pages, 760751 bytes).
+ 22727 strings out of 476553
+ 125007,1977958 words of node,token memory allocated
+ 758 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 49 attribute, 69 glue_spec
+, 26 attribute_list, 1 write, 9 pdf_action nodes
+   avail lists: 1:4,2:916,3:719,4:156,5:580,6:49,7:11991,8:86,9:433,10:17,11:683
 
-PDF statistics: 74 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 131072)
- 57 words of extra memory for PDF output out of 10000 (max. 100000000)
+ 44236 multiletter control sequences out of 65536+600000
+ 48 fonts using 2955007 bytes
+ 72i,11n,78p,1554b,1789s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C
+:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi8.pfb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Users/Torstein/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Torstein/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Torstein/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Torstein/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Torstein/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Torstei
+n/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Torste
+in/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Torst
+ein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Tors
+tein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/To
+rstein/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Report.pdf (6 pages, 1130256 bytes).
+
+PDF statistics: 264 PDF objects out of 1000 (max. 8388607)
+ 53 named destinations out of 1000 (max. 131072)
+ 145 words of extra memory for PDF output out of 10000 (max. 100000000)
 
