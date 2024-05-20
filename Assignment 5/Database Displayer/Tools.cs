@@ -1,21 +1,22 @@
-﻿using System;
+﻿using Microsoft.Data.SqlClient;
 using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Windows.Forms.DataVisualization.Charting;
 
 namespace Tools
 {
-    public class SensorData
+    internal class SensorData
     {
-        public int SensorId { get; set; }
-        public double Value { get; set; }
-        public DateTime LogTime { get; set; }
+        public int DataId { get; set; }
+        public string? DataTimeStamp { get; set; }
+        public double DataValue { get; set; }
+
         public List<SensorData> GetSensorData()
         {
-            string connectionString = "server=localhost\\SQLEXPRESS;Database=master;Trusted_Connection=True;";
+            string connectionString = "Data Source=BEIST\\SQLEXPRESS;Initial Catalog=Datalogging and Monitoring System;Integrated Security=True; TrustServerCertificate=True";
+
             List<SensorData> sensorDataList = new List<SensorData>();
             SqlConnection con = new SqlConnection(connectionString);
-            string selectSQL = "select SensorId, Value, LogTime from DATAPOINT where LogId = 0";
+
+            string selectSQL = "SELECT DatapointId, Value FROM DATAPOINT where LogId = 3";
             con.Open();
             SqlCommand cmd = new SqlCommand(selectSQL, con);
             SqlDataReader dr = cmd.ExecuteReader();
@@ -24,19 +25,13 @@ namespace Tools
                 while (dr.Read())
                 {
                     SensorData sensorData = new SensorData();
-                    sensorData.SensorId = Convert.ToInt32(dr["SensorId"]);
-                    sensorData.Value = Convert.ToDouble(dr["Value"]);
-                    sensorData.LogTime = Convert.ToDateTime(dr["LogTime"]);
+
+                    sensorData.DataId = Convert.ToInt32(dr["DatapointId"]);
+                    sensorData.DataValue = Convert.ToDouble(dr["Value"]);
                     sensorDataList.Add(sensorData);
                 }
             }
-            con.Close();
             return sensorDataList;
         }
-    }
-
-    public class Plot
-    {
-
     }
 }

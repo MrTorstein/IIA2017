@@ -626,19 +626,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Torstein\\.nuget\\packages\\": {}
+    "C:\\Users\\Torstein\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\C# OPC UA Client\\C# OPC UA Client.csproj",
+      "projectUniqueName": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\Csharp OPC UA Client\\C# OPC UA Client.csproj",
       "projectName": "C# OPC UA Client",
-      "projectPath": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\C# OPC UA Client\\C# OPC UA Client.csproj",
+      "projectPath": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\Csharp OPC UA Client\\C# OPC UA Client.csproj",
       "packagesPath": "C:\\Users\\Torstein\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\C# OPC UA Client\\obj\\",
+      "outputPath": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\Csharp OPC UA Client\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Torstein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -646,6 +651,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -658,6 +664,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -688,7 +699,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

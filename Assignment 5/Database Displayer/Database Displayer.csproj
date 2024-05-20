@@ -5,13 +5,13 @@
     <TargetFramework>net8.0-windows</TargetFramework>
     <RootNamespace>Database_Displayer</RootNamespace>
     <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UseWPF>true</UseWPF>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
-    <PackageReference Include="WinForms.DataVisualization" Version="1.9.2" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.0" />
+    <PackageReference Include="ScottPlot.WinForms" Version="5.0.27" />
   </ItemGroup>
 
 </Project>

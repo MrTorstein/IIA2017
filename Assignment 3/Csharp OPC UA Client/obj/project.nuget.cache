@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nqq23gH21+ngw0zy3wZDm9t79PGPudeb+yDAgb19yN1IVf4yke4CXDgbdy+6wYOA0Ccc2OKbHB0X+T7CJUL55Q==",
+  "dgSpecHash": "P+hLC7cmkHL4X1EWSqM4owTP443R9tzZirwrjMvJvNF/BwzAsrgzY9QdTf5XiNrEFPw/CNeNmoiUiFe+PoFPFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\C# OPC UA Client\\C# OPC UA Client.csproj",
+  "projectFilePath": "C:\\Users\\Torstein\\Documents\\skole\\USN\\IIA2017\\Assignment 3\\Csharp OPC UA Client\\C# OPC UA Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Torstein\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Torstein\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

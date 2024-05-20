@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C__OPC_UA_Client
-build_property.ProjectDir = C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\C# OPC UA Client\
+build_property.ProjectDir = C:\Users\Torstein\Documents\skole\USN\IIA2017\Assignment 3\Csharp OPC UA Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
